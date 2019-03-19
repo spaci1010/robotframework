@@ -275,3 +275,4 @@ Main-Class: org.robotframework.RobotFramework
 Specification-Version: 2
 Implementation-Version: {version}
 ''')
+#
